@@ -1,4 +1,4 @@
-# Case 2 - Content-Based Recommendation System
+# Content-Based Recommendation System
 
 We plan to build a movie/show recommendation system using a few kaggle datasets that consist of TV shows and movies available on Netflix as of 2019. Our model will allow movie and show inputs and output relevant titles from any streaming platform. We will research various papers and datasets to select effective algorithms for the final model and potentially utilize clustering methods to make these recommendations.
 
@@ -20,6 +20,10 @@ You can play with this dashboard here: [link](https://share.streamlit.io/zbszd04
 <img width="1432" alt="Screen Shot 2021-12-07 at 10 56 58 PM" src="https://user-images.githubusercontent.com/69788782/145150666-c7eb55b2-1bd2-40de-aaf3-bba0f0981c6f.png">
 
 ## Contact Info
+Soyeon Park, M.S. in Data Science Candidate  
+Vanderbilt University  
+soyeon.park@Vanderbilt.Edu  
+
 Jay Kim, M.S. in Data Science Candidate  
 Vanderbilt University  
 jay.kim@vanderbilt.edu  
@@ -31,10 +35,6 @@ li.yuan@vanderbilt.edu
 Lori Chiu, M.S. in Data Science Candidate  
 Vanderbilt University  
 lori.chiu@vanderbilt.edu  
-
-Soyeon Park, M.S. in Data Science Candidate  
-Vanderbilt University  
-soyeon.park@Vanderbilt.Edu  
 
 Weiqing Huang, M.S. in Data Science Candidate  
 Vanderbilt University  
